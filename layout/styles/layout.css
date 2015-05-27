@@ -46,6 +46,9 @@ File: Layout CSS
 #header button em{display:none;}
 
 
+
+
+
 /* Homepage Slider
 --------------------------------------------------------------------------------------------------------------- */
 #slider{position:relative; overflow:hidden;}
@@ -247,7 +250,7 @@ td{border-width:0 1px;}
 
 /* Rounded Corners
 --------------------------------------------------------------------------------------------------------------- */
-.rounded, input, button, textarea, #header input, #footer input, #slide-wrapper figcaption, .avatar, #comments li, .faico a, #twitter, 
+.rounded, input, button, textarea, #header input, #footer input, #slide-wrapper figcaption, .avatar, #comments li, .faico a, #twitter,
 .pagination a, .pagination strong{border-radius:8px;}
 
 #header button, #footer button{border-radius:0 8px 8px 0;}
@@ -394,7 +397,7 @@ table a, #comments a{background-color:inherit;}
 	#slider #slide-tabs li:first-child a{border-radius:0;}
 	#slider #slide-tabs li:last-child a{border-radius:0 0 8px 8px;}
 
-	#twitter div{margin:0; padding:0;}	
+	#twitter div{margin:0; padding:0;}
 	#twitter div:first-child{padding:15px 0; border-right:none;}
 
 	.quickinfo li{max-width:250px;}
